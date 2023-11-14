@@ -520,6 +520,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  background-color: #cdd4f8;
 
 }
 
@@ -530,3 +531,5 @@ footer .col{
   margin-bottom: 20px;
   
 }
+
+footer 
